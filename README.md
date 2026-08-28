@@ -1,6 +1,10 @@
 # Colorpicker GUI
 
-Select colors by their rgb values and compare them side by side. Written in python with the PyQt6 library
+Select colors by their rgb values and compare them side by side. Written in python with the PyQt6 library.
+
+---
+
+<img width="1062" height="575" alt="image" src="https://github.com/user-attachments/assets/1312afb4-2356-4a6e-86cf-fefd6c611014" />
 
 ## Getting Started
 
